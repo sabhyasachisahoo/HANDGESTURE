@@ -14,6 +14,7 @@ You can **Play/Pause**, **Skip**, and **Control Volume** without touching the ke
 - **Gesture Lock**: Show all fingers to lock gestures, close fist to unlock.
 - **Visual Feedback** on screen (Volume bar, Lock status).
 - Works with media players like **VLC** (auto-focus for skip).
+- Press 'q' to exit.
 
 ---
 
